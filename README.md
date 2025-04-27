@@ -25,6 +25,11 @@ This project simulates a basic safeguards data evaluation by comparing State-dec
 - Summary table showing whether each facility's data difference is significant.
 - Visualization of differences vs uncertainty thresholds.
 
+Comparison of declared vs measured quantities:
+
+![Measurement Difference Plot](measurement_difference_plot.png)
+
+
 ## Notes
 
 This is a conceptual exercise based on open-source information and does not use any sensitive or classified data.
