@@ -29,6 +29,9 @@ Comparison of declared vs measured quantities:
 
 ![Measurement Difference Plot](measurement_difference_plot.png)
 
+![image](https://github.com/user-attachments/assets/8146fe21-c880-45d0-b76d-2a2f39631ad2)
+
+
 
 ## Notes
 
